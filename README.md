@@ -33,7 +33,7 @@ This repository features a Power BI dashboard designed to analyze and visualize 
 ## Dataset Used
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/PowerBI-Sales-Dashboard.git
+   git clone https://github.com/ankit-biz/PowerBI-Sales-Dashboard.git
    ```
 2. **Open the Dashboard:**
    - Use Power BI Desktop to open `SalesDashboard.pbix`.
