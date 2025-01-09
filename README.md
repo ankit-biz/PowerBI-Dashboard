@@ -44,5 +44,6 @@ This repository features a Power BI dashboard designed to analyze and visualize 
 - **Power BI Desktop:** For opening and interacting with the dashboard.
 - **Data Files:** Ensure the provided `.csv` files are available for accurate analysis.
 
-## License
-[Specify the license or "All rights reserved."]
+## Dashboard
+![dashboard2](https://github.com/user-attachments/assets/28453dc8-e89a-458d-9abf-353a395fb995)
+
