@@ -46,7 +46,3 @@ This repository features a Power BI dashboard designed to analyze and visualize 
 
 ## License
 [Specify the license or "All rights reserved."]
-
----
-
-Feel free to reach out for questions or suggestions regarding this project!
