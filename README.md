@@ -45,5 +45,6 @@ This repository features a Power BI dashboard designed to analyze and visualize 
 - **Data Files:** Ensure the provided `.csv` files are available for accurate analysis.
 
 ## Dashboard
-![dashboard2](https://github.com/user-attachments/assets/28453dc8-e89a-458d-9abf-353a395fb995)
+![dashboard1](https://github.com/user-attachments/assets/34fdacdf-ba0a-4d4d-a6ea-c93c6b33f86d)
+
 
