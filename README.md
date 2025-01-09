@@ -46,5 +46,7 @@ This repository features a Power BI dashboard designed to analyze and visualize 
 
 ## Dashboard
 ![dashboard1](https://github.com/user-attachments/assets/34fdacdf-ba0a-4d4d-a6ea-c93c6b33f86d)
+![dashboard2](https://github.com/user-attachments/assets/c8492be4-f65f-41dd-83e3-ea96ba423508)
+
 
 
